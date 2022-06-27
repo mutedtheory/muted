@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "name": "radar-master",
+  "description": "An audio-visual experiment that uses [Audiolet](https://github.com/oampo/Audiolet) to synthesize sound in real-time. The visuals are rendered on ```<canvas>```.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
